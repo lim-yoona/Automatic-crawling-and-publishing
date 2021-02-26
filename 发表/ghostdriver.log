@@ -1,12 +1,8 @@
-[INFO  - 2021-02-26T09:41:46.430Z] GhostDriver - Main - running on port 65252
-[INFO  - 2021-02-26T09:41:50.875Z] Session [da1a6a70-7816-11eb-8cce-29788fc6eb40] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2021-02-26T09:41:50.875Z] Session [da1a6a70-7816-11eb-8cce-29788fc6eb40] - page.customHeaders:  - {}
-[INFO  - 2021-02-26T09:41:50.876Z] Session [da1a6a70-7816-11eb-8cce-29788fc6eb40] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2021-02-26T09:41:50.876Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: da1a6a70-7816-11eb-8cce-29788fc6eb40
-[INFO  - 2021-02-26T09:46:46.434Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2021-02-26T09:51:46.437Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2021-02-26T09:56:46.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2021-02-26T10:01:46.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2021-02-26T10:04:52.742Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1614333892736
-
-  phantomjs://platform/console++.js:263 in error
+[INFO  - 2021-02-26T11:57:41.119Z] GhostDriver - Main - running on port 51984
+[INFO  - 2021-02-26T11:57:45.614Z] Session [d6b4af90-7829-11eb-867c-1765592520ef] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-02-26T11:57:45.614Z] Session [d6b4af90-7829-11eb-867c-1765592520ef] - page.customHeaders:  - {}
+[INFO  - 2021-02-26T11:57:45.614Z] Session [d6b4af90-7829-11eb-867c-1765592520ef] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-02-26T11:57:45.614Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d6b4af90-7829-11eb-867c-1765592520ef
+[INFO  - 2021-02-26T11:57:58.443Z] Session [d6b4af90-7829-11eb-867c-1765592520ef] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-02-26T11:57:58.443Z] Session [d6b4af90-7829-11eb-867c-1765592520ef] - page.customHeaders:  - {}
+[INFO  - 2021-02-26T12:02:41.113Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
